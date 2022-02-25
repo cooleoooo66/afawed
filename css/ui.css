@@ -36,8 +36,8 @@
 	height: max-content;
 	max-width: max-content;
 	min-width: 10vw;
-	background-color: var(--accent-1);
-	border: .1em solid var(--accent-2);
+	background-color: black;
+	border: .1em solid gray;
 	border-radius: .2em;
 }
 .applist>iframe{
@@ -53,7 +53,7 @@
 	border-bottom: 1px solid var(--accent-3);
 	margin-bottom: 3px;
 	background: var(--wk-top-gradient);
-    background: var(--top-gradient);
+    background: black;
 }
 .box_widget>div{
 	padding: 10px;
@@ -305,4 +305,3 @@ input,select:focus{
     60% { top: -150px; }
     80% { top: -200px; }
 }
-
